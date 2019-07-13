@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">cpd1</string>
+
+    <string name="read">READ</string>
+    <string name="inspiration">Inspiration</string>
+    <string name="description">Description</string>
+    <string name="home">Home</string>
+    <string name="info">info</string>
+    <string name="trending">New</string>
+    <string name="notifications">Notifications</string>
+    <string name="search">search</string>
+    <string name="settings">settings</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
